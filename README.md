@@ -31,6 +31,9 @@ CS Undergraduate focusing on offensive security and network pentesting. I try le
   <img src="https://img.shields.io/badge/TryHackMe-Top_3%25-1b2d41?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe Profile" />
 </a>
 
+<a href="https://github.com/Nyx10n/web-security-notes">
+  <img src="https://img.shields.io/badge/GitHub-Web_Security_Notes-181717?style=for-the-badge&logo=github&logoColor=white" alt="Web Security Notes" />
+</a>
 
 ## 📬 Let's Connect
 
