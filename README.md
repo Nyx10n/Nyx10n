@@ -22,7 +22,13 @@ CS Undergraduate focusing on offensive security and network pentesting. I try le
 
 ## 🚀 Projects
 
-![Projects](https://img.shields.io/badge/Projects-Coming_Soon-7f8c8d?style=for-the-badge)
+[![gonc (Go Netcat)](https://img.shields.io/badge/Micro--Tool_1-gonc_(Go_Netcat)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nyx10n/gonc)  
+A raw, dependency-free bidirectional TCP communication tool using native Go libraries.
+
+<br>
+
+[![Concurrent Port Scanner](https://img.shields.io/badge/Micro--Tool_2-Concurrent_Port_Scanner-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nyx10n/port-scanner)  
+A high-speed TCP port scanner built from scratch in Go to understand network probes and file descriptor limits.
 
 
 ## 📚 Research & Learning
